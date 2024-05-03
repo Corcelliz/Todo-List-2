@@ -24,6 +24,7 @@
     <img align="center" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 </div><br>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e37d466-bccc-4f96-bbbe-2eaf26a033bd/deploy-status)](https://app.netlify.com/sites/corcelli-todo2/deploys)
 ---
 
 <h2 style="display: flex; justify-content: center">🏗️ Instalando o Framework React + Vite</h2>
